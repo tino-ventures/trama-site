@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /auth/
+Disallow: /*/console
+Disallow: /*/sign-in/
+Disallow: /*/signed-out
+Disallow: /*/sign-out/
+Disallow: /*/session-ended
+
+Sitemap: https://trama.tino.solutions/sitemap/en.xml
+Sitemap: https://trama.tino.solutions/sitemap/pt-br.xml

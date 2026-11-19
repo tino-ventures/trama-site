@@ -1,0 +1,5 @@
+Contact: mailto:contato@tino.solutions
+Expires: 2027-05-18T00:00:00Z
+Preferred-Languages: en, pt-BR
+Policy: https://trama.tino.solutions/en/vulnerability-disclosure
+Canonical: https://trama.tino.solutions/.well-known/security.txt
